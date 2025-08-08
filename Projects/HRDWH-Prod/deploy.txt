@@ -1,0 +1,7 @@
+az login
+
+az account set --subscription SUBSCRIPTION-NAME-HERE
+
+az deployment sub what-if --location SwitzerlandNorth --template-file newRG.bicep --parameters rg.bicepparam
+
+az deployment sub create --location SwitzerlandNorth --template-file main.bicep --parameters main.bicepparam

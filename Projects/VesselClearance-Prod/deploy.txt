@@ -1,0 +1,5 @@
+az login
+
+az account set --subscription SUBSCRIPTION-NAME-HERE
+
+az deployment group create --resource-group RESOURCE-GROUP-NAME-HERE --template-file main.bicep --parameters main.bicepparam
