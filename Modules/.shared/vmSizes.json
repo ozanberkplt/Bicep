@@ -1,0 +1,8 @@
+{
+  "small": "Standard_D2s_v5",
+  "medium": "Standard_D4s_v5",
+  "large": "Standard_D8s_v5",
+  "xlarge": "Standard_D16s_v5",
+  "2xlarge": "Standard_D32s_v5",
+  "4xlarge": "Standard_D64s_v5"
+}

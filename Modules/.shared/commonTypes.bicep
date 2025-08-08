@@ -21,3 +21,9 @@ type webAppDefinition = {
   appSettings: object 
   slots: string[]
 }
+
+@export()
+type OSType = 'Linux' | 'Windows Server 2022' | 'Windows Server 2019' | 'Windows 10' | 'Windows 11'
+
+@export()
+type vmSizeType = 'small' | 'medium' | 'large' | 'xlarge' | '2xlarge' | '4xlarge'
