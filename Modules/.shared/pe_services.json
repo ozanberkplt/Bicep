@@ -1,0 +1,58 @@
+{
+  "keyVault": {
+    "description": "Private endpoint name for Azure Key Vault",
+    "service": "vault"
+  },
+  "blob": {
+    "description": "Private endpoint name for Blob storage",
+    "service": "blob"
+  },
+  "file": {
+    "description": "Private endpoint name for File share",
+    "service": "file"
+  },
+  "queue": {
+    "description": "Private endpoint name for Queue storage",
+    "service": "queue"
+  },
+  "table": {
+    "description": "Private endpoint name for Table storage",
+    "service": "table"
+  },
+  "sql": {
+    "description": "Private endpoint name for Azure SQL Database",
+    "service": "sqlServer"
+  },
+  "cosmos": {
+    "description": "Private endpoint name for Cosmos DB",
+    "service": "Sql"
+  },
+  "web": {
+    "description": "Private endpoint name for App Service/Web App",
+    "service": "sites"
+  },
+  "acr": {
+    "description": "Private endpoint name for Azure Container Registry",
+    "service": "registry"
+  },
+  "apim": {
+    "description": "Private endpoint name for API Management",
+    "service": "gateway"
+  },
+  "datafactory_datafactory": {
+    "description": "ADF private endpoint to Data Factory service",
+    "service": "dataFactory"
+  },
+  "datafactory_portal": {
+    "description": "ADF private endpoint to portal access",
+    "service": "portal"
+  },
+  "databricks_browser_authentication": {
+    "description": "Databricks private endpoint to browser authentication",
+    "service": "browser_authentication"
+  },
+  "databricks_ui_api": {
+    "description": "Databricks private endpoint to relay",
+    "service": "databricks_ui_api"
+  }
+}

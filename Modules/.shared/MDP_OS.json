@@ -1,0 +1,22 @@
+{
+  "ubuntu2204": {
+    "alias": "ubuntu-2204",
+    "wellKnownImageName": "ubuntu-2204/latest"
+  },
+  "ubuntu2404": {
+    "alias": "ubuntu-2404",
+    "wellKnownImageName": "ubuntu-2404/latest"
+  },
+  "winserver2019": {
+    "alias": "windows-2019",
+    "wellKnownImageName": "windows-2019/latest"
+  },
+  "winserver2022": {
+    "alias": "windows-2022",
+    "wellKnownImageName": "windows-2022/latest"
+  },
+  "winserver2025": {
+    "alias": "windows-2025",
+    "wellKnownImageName": "windows-2025/latest"
+  }
+}

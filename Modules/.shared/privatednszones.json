@@ -1,0 +1,90 @@
+{
+  "blob": {
+    "configName": "privatelink-blob-core-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net"
+  },
+  "file": {
+    "configName": "privatelink-file-core-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.file.core.windows.net"
+  },
+  "queue": {
+    "configName": "privatelink-queue-core-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.queue.core.windows.net"
+  },
+  "table": {
+    "configName": "privatelink-table-core-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.table.core.windows.net"
+  },
+  "keyvault": {
+    "configName": "privatelink-vaultcore-azure-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.vaultcore.azure.net"
+  },
+  "sql": {
+    "configName": "privatelink-database-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net"
+  },
+  "cosmos": {
+    "configName": "privatelink-cosmos-db-azure-com",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.documents.azure.com"
+  },
+  "web": {
+    "configName": "privatelink-azurewebsites-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.azurewebsites.net"
+  },
+  "mysql": {
+    "configName": "privatelink-mysql-database-azure-com",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.mysql.database.azure.com"
+  },
+  "postgres": {
+    "configName": "privatelink-postgres-database-azure-com",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.postgres.database.azure.com"
+  },
+  "mariadb": {
+    "configName": "privatelink-mariadb-database-azure-com",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.mariadb.database.azure.com"
+  },
+  "redis": {
+    "configName": "privatelink-redis-cache-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.redis.cache.windows.net"
+  },
+  "eventhub": {
+    "configName": "privatelink-servicebus-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.servicebus.windows.net"
+  },
+  "servicebus": {
+    "configName": "privatelink-servicebus-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.servicebus.windows.net"
+  },
+  "acr": {
+    "configName": "privatelink-azurecr-io",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.azurecr.io"
+  },
+  "datalake": {
+    "configName": "privatelink-dfs-core-windows-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.dfs.core.windows.net"
+  },
+  "apim": {
+    "configName": "privatelink-azure-api-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.azure-api.net"
+  },
+  "cognitiveservices": {
+    "configName": "privatelink-cognitiveservices-azure-com",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.cognitiveservices.azure.com"
+  },
+  "synapse": {
+    "configName": "privatelink-dev-azuresynapse-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.dev.azuresynapse.net"
+  },
+  "signalr": {
+    "configName": "privatelink-signalr-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.signalr.net"
+  },
+  "datafactory": {
+    "configName": "privatelink-datafactory-azure-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.datafactory.azure.net"
+  },
+  "databricks": {
+    "configName": "privatelink-azuredatabricks-net",
+    "dnsZone": "/subscriptions/7daa124f-663c-493f-88fc-cf8f04556149/resourceGroups/rg-commonit-privatedns-swn/providers/Microsoft.Network/privateDnsZones/privatelink.azuredatabricks.net"
+  }
+}

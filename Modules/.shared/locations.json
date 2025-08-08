@@ -1,0 +1,42 @@
+{
+  "swn": {
+    "region": "switzerlandnorth",
+    "nextHopIp": "10.192.133.10",
+    "dnsServers": [
+      "10.192.140.201",
+      "10.192.140.202"
+    ],
+    "fortigateExt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_ext-swn/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_ext-swn",
+    "fortigateInt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_int-swn/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_int-swn"
+  },
+  "usc": {
+    "region": "southcentralus",
+    "nextHopIp": "10.196.133.10",
+    "dnsServers": [
+      "10.196.140.201",
+      "10.196.140.202"
+    ],
+    "fortigateExt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_ext-usc/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_ext-usc",
+    "fortigateInt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_int-usc/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_int-usc"
+  },
+  "weu": {
+    "region": "westeurope",
+    "nextHopIp": "10.192.133.10",
+    "dnsServers": [
+      "10.192.140.201",
+      "10.192.140.202"
+    ],
+    "fortigateExt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_ext-weu/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_ext-weu",
+    "fortigateInt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_int-weu/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_int-weu"
+  },
+  "sea": {
+    "region": "southeastasia",
+    "nextHopIp": "10.192.133.10",
+    "dnsServers": [
+      "10.192.140.201",
+      "10.192.140.202"
+    ],
+    "fortigateExt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_ext-sea/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_ext-sea",
+    "fortigateInt": "/subscriptions/4316c77a-03dc-426c-a2b8-67c10833d85e/resourceGroups/rg-fortigate_int-sea/providers/Microsoft.Network/virtualNetworks/vnet-fortigate_int-sea"
+  }
+}
