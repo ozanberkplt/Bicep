@@ -1,0 +1,15 @@
+{
+  "Linux": {
+    "type": "Linux",
+    "publisher": "Canonical",
+    "offer": "ubuntu-24_04-lts",
+    "sku": "server",
+    "version": "latest"
+  },
+  "Windows Server 2022": {
+    "resourceId": "CUSTOM-GALLER-IMAGE-RESOURCE-ID-HERE"
+  },
+  "Windows Server 2019": {
+    "resourceId": "CUSTOM-GALLER-IMAGE-RESOURCE-ID-HERE"
+  }
+}
