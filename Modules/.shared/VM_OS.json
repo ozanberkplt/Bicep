@@ -7,9 +7,9 @@
     "version": "latest"
   },
   "Windows Server 2022": {
-    "resourceId": "CUSTOM-GALLER-IMAGE-RESOURCE-ID-HERE"
+    "resourceId": "CUSTOM-GALLERY-IMAGE-RESOURCE-ID-HERE"
   },
   "Windows Server 2019": {
-    "resourceId": "CUSTOM-GALLER-IMAGE-RESOURCE-ID-HERE"
+    "resourceId": "CUSTOM-GALLERY-IMAGE-RESOURCE-ID-HERE"
   }
 }
