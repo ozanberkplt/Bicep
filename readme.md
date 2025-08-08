@@ -54,18 +54,8 @@ Ensure shared definitions from `.shared/` are included where necessary.
 
 This repo is actively maintained and used for deploying Azure workloads using modular, repeatable, and scalable infrastructure as code (IaC) practices.
 
----
-
-## 📁 Projects
-
-If you plan to use the `Projects/` folder for grouped deployments or examples, consider documenting them here when available.
-
-## 🧾 License
-
-MIT License. See [LICENSE](./LICENSE) for more details.
-
----
 
 ## ✍️ Author
 
-Maintained by [ozanberkplt](https://github.com/ozanberkplt)
+Maintained by [ozanberkpolat](https://github.com/ozanberkpolat)
+
